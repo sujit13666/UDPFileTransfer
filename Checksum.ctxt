@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Checksum
+comment0.text=\n\ This\ class\ is\ responsible\ for\ checking\ the\ checksum\ and\ creating\ strings\ with\ checksum\n\n\ @author\ \ \ \ \ \ Sujit\ Ghosh\ 102233329\n\ @version\ \ \ \ \ 1.0\n\ @email\ \ \ \ \ \ \ sujit.bit.0329@gmail.com\n
+comment1.params=data
+comment1.target=java.lang.String\ getChecksumString(java.lang.String)
+comment2.params=reply
+comment2.target=boolean\ validChecksumValueWithoutDataFrame(java.lang.String)
+comment3.params=reply
+comment3.target=boolean\ validChecksumValueWithDataFrame(java.lang.String)
+numComments=4

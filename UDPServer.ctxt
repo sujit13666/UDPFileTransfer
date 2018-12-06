@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UDPServer
+comment0.text=\n\ This\ is\ the\ server\ of\ UDP\ packet\ transferring\n\ \n\n\ @author\ \ \ \ \ \ Sujit\ Ghosh\ \ 102233329\n\ @version\ \ \ \ \ 1.0\n\ @email\:\ \ \ \ \ \ sujit.bit.0329@gmail.com\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
